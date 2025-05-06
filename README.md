@@ -1,2 +1,2 @@
 # BancoDigitalPOO
-Reproduzir as principais caracteristicas de um Banco Digital utilizando os conceitos da Porgramação Orientada a Objetos na linguagem Java
+Reproduzir as principais características de um Banco Digital utilizando os conceitos da Programação Orientada a Objetos na linguagem Java
